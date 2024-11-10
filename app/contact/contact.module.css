@@ -1,0 +1,41 @@
+.contact{
+    background-color:rgb(171, 101, 115);
+    text-align: center;
+    border-radius: 10px;
+}
+.form{
+    width: 30%;
+    margin: auto;
+    padding: 60px;
+    background-color: rgba(187, 163, 168, 0.626);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-family: Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin-bottom: 200px;
+
+}
+
+.message {
+    min-height: 100px; /* Set your desired minimum height */
+    max-height: 300px; /* Set your desired maximum height */
+    font-size: 12px;
+}
+
+.name{
+    margin-bottom: 10px;
+    font-size: 13px;
+    color: rgb(0, 0, 0);
+    margin-right: 19px;
+    font-size: 12px;
+}
+
+
+.submit{
+
+    color: rgb(103, 97, 97);
+    padding-bottom: 0px;
+    font-size:11px ;
+    margin-left: 40px;
+}

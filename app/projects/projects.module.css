@@ -1,0 +1,25 @@
+.project{
+    background-color:rgb(71, 125, 180);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.projectbutton{
+    display: flex;
+    padding: 1rem 2.8rem;
+    background:rgb(32, 56, 87);
+    box-shadow: 0 0  25px var(--main-color);
+    border-radius: 10px;
+    font-size:23px;
+    color: #ffeeee;
+    border: 5px solid rgb(76, 87, 134) ;
+    font-weight: 2;
+    width: 30px;
+    height: 5px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 480px;
+    
+   
+
+}
